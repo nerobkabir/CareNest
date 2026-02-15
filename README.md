@@ -1,4 +1,4 @@
-# Care.xyz / Care.IO
+# CareNext
 
 **Baby Sitting & Elderly Care Service Platform**
 
